@@ -15,9 +15,9 @@ Para rodar o código basta abrir o terminal na pasta e executar o comando **make
 Para deletar o executável, utilize **make clean**.
 O texto com a explicação do modelo singleton e do código está localizado em ~/Implementacao-de-Padroes-de-Projeto/Singleton/Padrao_Singleton.pdf
 
-## Código Adapter
+## Código Observer
 
-O código está localizado em ~/Implementacao-de-Padroes-de-Projeto/Adapter/Codigo_Adapter.
+O código está localizado em ~/Implementacao-de-Padroes-de-Projeto/Observer/Codigo_Observer.
 Para rodar o código basta abrir o terminal na pasta e executar o comando **make**.
 Para deletar o executável, utilize **make clean**.
-O texto com a explicação do modelo singleton e do código está localizado em ~/Implementacao-de-Padroes-de-Projeto/Adapter/Adapter.pdf
+O texto com a explicação do modelo singleton e do código está localizado em ~/Implementacao-de-Padroes-de-Projeto/Observer/Observer.pdf
